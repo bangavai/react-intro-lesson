@@ -16,8 +16,8 @@ function App() {
           className="avatar"
         />
         <h1>Welcome to react!</h1>
-        <Button text="first button" />
-        <Button text="second button" />
+        <Button text="Add" />
+        <Button text="Subtract" />
         <input onBlur={onBlurEvent} />
       </div>
     );
